@@ -1,0 +1,2 @@
+# sweety
+my first project
